@@ -1,0 +1,9 @@
+# Write a program to print given number is +ve or -ve
+a = int(input('enter an integer:'))
+if a>0:
+    print('a is positive integer')
+elif a<0:
+    print('a is negative integer')
+else:
+    print("a is 0")
+ 
